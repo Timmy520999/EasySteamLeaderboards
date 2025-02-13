@@ -10,3 +10,5 @@
 * asdfasdf asdfasdf 
 * asdfasldkf alskfdlas df 
 <img src="./img/DT.jpg"/>
+
+<a href="./README_cn.md">中文</a>
