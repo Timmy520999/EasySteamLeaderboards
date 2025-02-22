@@ -3,6 +3,7 @@
 # Easy Steam Leaderboards 使用文档
 # 点击跳转到英文使用文档：<a href="./README.md">英文</a>
 
+0. 预设值Config/DefaultEngine：请参照UE官方配置：<a href="https://dev.epicgames.com/documentation/zh-cn/unreal-engine/online-subsystem-steam-interface-in-unreal-engine?application_version=5.5">Steam相关重要配置</a>
 
 1. 安装Easy Steam Leaderboards 后，在UE插件里搜索Easy Steam Leaderboards,勾选它。重启UE.
 

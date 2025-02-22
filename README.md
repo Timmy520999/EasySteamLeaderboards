@@ -2,6 +2,11 @@
 # Easy Steam Leaderboards Documentation
 # Jump to Chinese documentation: <a href="./README_cn.md">Chinese Version</a>
 
+## 0. Preset Config : <a href="https://dev.epicgames.com/documentation/zh-cn/unreal-engine/online-subsystem-steam-interface-in-unreal-engine?application_version=5.5">Steam Important config</a>
+    * Preset value "Config/DefaultEngine": Please refer to the official UE configuration.
+
+    [Steam Important config](https://dev.epicgames.com/documentation/zh-cn/unreal-engine/online-subsystem-steam-interface-in-unreal-engine?application_version=5.5)
+
 ## 1. Installation
     *  After installing Easy Steam Leaderboards plugin, search for "Easy Steam Leaderboards" in the UE plugin manager, enable it, and restart Unreal Engine.
 <img src="./img/1.jpg" alt="Plugin activation interface"/>
