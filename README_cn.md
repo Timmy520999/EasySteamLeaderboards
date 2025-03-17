@@ -2,6 +2,7 @@
 
 # Easy Steam Leaderboards 使用文档
 # 点击跳转到英文使用文档：<a href="./README.md">英文</a>
+# 重要事项：如果你想使用国旗功能，并使用我为你配置好的数据表。建议不要直接在插件内的数据表进行配置国旗图像。最好将插件内数据表复制到你的项目文件夹内进行配置图像。防止后面更新插件后，会覆盖掉插件内你配置过的数据表。
 
 0. 预设值Config/DefaultEngine：请参照UE官方配置：<a href="https://dev.epicgames.com/documentation/zh-cn/unreal-engine/online-subsystem-steam-interface-in-unreal-engine?application_version=5.5">Steam相关重要配置</a>
 

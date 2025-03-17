@@ -1,6 +1,7 @@
 # EasySteamLeaderboards Plugin
 # Easy Steam Leaderboards Documentation
 # Jump to Chinese documentation: <a href="./README_cn.md">Chinese Version</a>
+# Important Note: If you want to use the national flag function and utilize the data table that I have configured for you, it is recommended that you do not directly configure the national flag images in the data table within the plugin. It is best to copy the data table from the plugin to your project folder and configure the images there. This is to prevent the data table you have configured within the plugin from being overwritten when the plugin is updated later.  
 
 ## 0. Preset Config : <a href="https://dev.epicgames.com/documentation/zh-cn/unreal-engine/online-subsystem-steam-interface-in-unreal-engine?application_version=5.5">Steam Important config</a>
     * Preset value "Config/DefaultEngine": Please refer to the official UE configuration.
@@ -9,7 +10,7 @@
 
 ## 1. Installation
     *  After installing Easy Steam Leaderboards plugin, search for "Easy Steam Leaderboards" in the UE plugin manager, enable it, and restart Unreal Engine.
-<img src="./img/1.jpg" alt="Plugin activation interface"/>
+<img src="./img/1.jpg">
 
 ## 2. Configuration
     * Configure your leaderboard data in the Steamworks backend.
